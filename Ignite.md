@@ -87,3 +87,5 @@ Pretty fun box! Very basic, but it did a good job of making me actually read the
 Note: I had to go back a recapture a screenshot of the linpeas results, and when I did I notice that the password was caught as well. The simplicity of the format made me not notice, but I should have caught this as well! Here's a POC (as usual, edited to remove the root password):
 
 ![image](https://user-images.githubusercontent.com/92694455/138534185-997422c2-d8b0-4bb6-9963-cfa95db36462.png)
+
+Again, I highly recommend visiting https://tryhackme.com 
