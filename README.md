@@ -1,2 +1,2 @@
 # TryHackMe
-CTF Writeups from TryHackMe
+My collection of CTF Writeups from TryHackMe
