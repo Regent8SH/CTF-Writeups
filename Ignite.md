@@ -52,7 +52,7 @@ Alright, we're good to go. Let's navigate to the /home/ directory to check the u
 
 ![image](https://user-images.githubusercontent.com/92694455/138532120-2b567a90-2cf5-4bf4-a5b8-27e1291b1d10.png)
 
-I won't show the flag, because you should definitely try for it yourself! But let's figure out this Privelege Escalation.
+I won't show the flag, because you should definitely try for it yourself! But let's figure out this Privilege Escalation.
 
 We cd over to the /tmp/ directory, then create a python web server on our /opt/ directory so we can wget our tool linpeas.sh.
 
@@ -78,7 +78,7 @@ Let's try to su to root?
 
 ![image](https://user-images.githubusercontent.com/92694455/138533399-8239b877-0d2f-49ba-b462-0a9041505c2a.png)
 
-Wow that was faster than I thought it would be. It did show that you should read over all of the results of your Linpeas, not jsut the guaranteed privilege escalations. I'm gonna cat the flag real quick to finish the room out:
+Wow that was faster than I thought it would be. It did show that you should read over all of the results of your Linpeas, not just the guaranteed privilege escalations. I'm gonna cat the flag real quick to finish the room out:
 
 ![image](https://user-images.githubusercontent.com/92694455/138533473-b224e60e-ab22-4cc8-b01e-b154645d2802.png)
 
