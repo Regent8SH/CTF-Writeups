@@ -2,6 +2,8 @@ Hello,
 
 My name is Regent8SH, and this is my first CTF writeup. Currently I am Security+ and A+ certified. I have completed the INE Student training in preparation of the eJPT, and am looking forward to completing the eJPT exam so I can begin working on the OSCP. I hope to continue documenting these as a way of showcasing my Cyber Security journey.
 
+I absolutely love the TryHackMe platform, and I highly recommend you try it out at https://tryhackme.com
+
 First things first, I always start by adding the IP to my /etc/hosts file (I will be using ignite.thm), and follow it up with an initial nMap scan.
 
 nMap found the following result on port 80:
